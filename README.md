@@ -66,6 +66,8 @@ All displayed missions represent verified public repositories engineered by Mart
 | [**`medical_erp2`**](https://github.com/MartinLourduraj/medical_erp2) | Hospital ERP with OP, IP, Lab, Radiology, and Clinical Reporting | `Python` `Django` `PostgreSQL` | `Public` |
 | [**`DoctoHub`**](https://github.com/MartinLourduraj/DoctoHub) | Doctors combination social media and patient healthcare platform | `Django` `Python` `AWS` | `Public` |
 
+> *Active internal systems across the 22-repository production fleet include clinical lab flow pipelines (`vmmch-labflow`), educational management platforms (`school-bloom`), POS architectures (`vendor-vault-pos`), and internal microservices.*
+
 ---
 
 ## 🛠️ SECTION D — TECHNOLOGY ARSENAL
