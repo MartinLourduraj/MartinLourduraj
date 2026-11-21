@@ -2,13 +2,31 @@
 
 <div align="center">
 
-<!-- CINEMATIC THEME BANNER: MARVEL AVENGERS -->
-<img src="./assets/theme-avengers.png" alt="Marvel Avengers — Martin Lourduraj Cinematic Banner" width="100%" />
+<!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
+<img src="./assets/theme-avengers-banner.png" alt="Marvel Avengers — Martin Lourduraj Standalone Banner" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/OPERATIVE-MartinLourduraj-57A8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinLourduraj)
-[![Brand](https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-E74755?style=for-the-badge&logo=shield&logoColor=white)](https://csvsittech.in)
-[![Direct Contact](https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@csvsittech.in)
-[![Theme Mission](https://img.shields.io/badge/STATUS-AVENGERS%20PROTOCOL%3A%20DEFENDER-FFD700?style=for-the-badge)](https://github.com/MartinLourduraj)
+<!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MartinLourduraj">
+        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-57A8FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+      </a>
+      &nbsp;
+      <a href="https://csvsittech.in">
+        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-E74755?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
+      </a>
+      &nbsp;
+      <a href="mailto:contact@csvsittech.in">
+        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/MartinLourduraj">
+        <img src="https://img.shields.io/badge/STATUS-AVENGERS%20PROTOCOL%3A%20DEFENDER-FFD700?style=for-the-badge" alt="Theme Status" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
