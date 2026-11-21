@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_san-andreas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151811" />
+      <stop offset="100%" stop-color="#202619" />
+    </linearGradient>
+    <radialGradient id="radarSweep_san-andreas" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D8B16E" stop-opacity="0.35" />
+      <stop offset="70%" stop-color="#6FBC75" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#151811" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="240" rx="16" fill="url(#bgGrad_san-andreas)" stroke="#6FBC75" stroke-width="1.5" stroke-opacity="0.35" />
+
+  <!-- Radar Circle Grid on Left -->
+  <g transform="translate(140, 120)">
+    <circle cx="0" cy="0" r="90" fill="none" stroke="#D8B16E" stroke-width="1" stroke-opacity="0.25" />
+    <circle cx="0" cy="0" r="65" fill="none" stroke="#6FBC75" stroke-width="1" stroke-opacity="0.35" />
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#C79B52" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#D8B16E" stroke-width="1.5" stroke-opacity="0.7" />
+    <circle cx="0" cy="0" r="90" fill="url(#radarSweep_san-andreas)" />
+
+    <!-- Axes -->
+    <line x1="-95" y1="0" x2="95" y2="0" stroke="#6FBC75" stroke-width="0.8" stroke-opacity="0.4" stroke-dasharray="3,3" />
+    <line x1="0" y1="-95" x2="0" y2="95" stroke="#6FBC75" stroke-width="0.8" stroke-opacity="0.4" stroke-dasharray="3,3" />
+
+    <!-- Target Pings -->
+    <circle cx="-35" cy="-28" r="4" fill="#D8B16E" /><text x="-30" y="-32" fill="#D8B16E" font-family="'Segoe UI', monospace" font-size="9" font-weight="bold">PYTHON</text>
+    <circle cx="45" cy="-35" r="4" fill="#6FBC75" /><text x="50" y="-39" fill="#6FBC75" font-family="'Segoe UI', monospace" font-size="9" font-weight="bold">DJANGO</text>
+    <circle cx="-42" cy="40" r="4" fill="#C79B52" /><text x="-37" y="52" fill="#C79B52" font-family="'Segoe UI', monospace" font-size="9" font-weight="bold">POSTGRES</text>
+    <circle cx="35" cy="45" r="4" fill="#FF9900" /><text x="40" y="57" fill="#FF9900" font-family="'Segoe UI', monospace" font-size="9" font-weight="bold">AWS/DOCKER</text>
+  </g>
+
+  <!-- Radar Intelligence Telemetry on Right -->
+  <g transform="translate(280, 45)">
+    <text x="0" y="20" fill="#D8B16E" font-family="'Segoe UI', -apple-system, monospace" font-size="14" font-weight="900" letter-spacing="1.5">[ GROVE STREET RADAR // LOS SANTOS TERRITORY ]</text>
+    <text x="0" y="48" fill="#DCE7EB" font-family="'Segoe UI', monospace" font-size="11">PRIMARY SECTOR : FULL-STACK INFRASTRUCTURE & HEALTHCARE PLATFORMS</text>
+    <text x="0" y="70" fill="#DCE7EB" font-family="'Segoe UI', monospace" font-size="11">DEPLOYMENT     : HIPAA-COMPLIANT AWS &amp; AUTOMATED CONTAINERS</text>
+    <text x="0" y="92" fill="#DCE7EB" font-family="'Segoe UI', monospace" font-size="11">COMMUNICATION  : RESTFUL APIS, DICOM/PACS, REAL-TIME QUEUES</text>
+    <text x="0" y="114" fill="#6FBC75" font-family="'Segoe UI', monospace" font-size="11">ACTIVE TARGETS : remix-of-gen-tech-hub • medical_erp2 • DoctoHub</text>
+    <text x="0" y="142" fill="#FF9900" font-family="'Segoe UI', monospace" font-size="10" font-weight="bold" letter-spacing="1">VERIFIED DEVELOPER • ALL SYSTEMS OPERATIONAL</text>
+  </g>
+</svg>

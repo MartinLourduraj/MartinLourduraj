@@ -2,5 +2,6 @@ node_modules/
 package.json
 package-lock.json
 generate-assets.js
+generate-cinematic-banner.js
 .DS_Store
 Thumbs.db

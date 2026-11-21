@@ -1,107 +1,81 @@
-# CSVS UNDERWORLD — ULTIMATE DEVELOPER EDITION
+# Martin Lourduraj
 
 <div align="center">
 
-<!-- Actual Frame-Animated Hero Banner (Moving Supercar, Moving Superbike & Los Santos Night Skyline) -->
-<img src="./assets/underworld-banner.gif" alt="CSVS Underworld — Martin Lourduraj" width="100%" />
+<!-- CINEMATIC THEME BANNER: CSVS UNDERWORLD -->
+<img src="./assets/theme-current.png" alt="CSVS Underworld — Martin Lourduraj Cinematic Banner" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/OPERATIVE-MartinLourduraj-00D8C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinLourduraj)
-[![Brand](https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-20E88B?style=for-the-badge&logo=shield&logoColor=black)](https://csvsittech.in)
+[![Brand](https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-20E88B?style=for-the-badge&logo=shield&logoColor=white)](https://csvsittech.in)
 [![Direct Contact](https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-18BFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@csvsittech.in)
-[![Mission Status](https://img.shields.io/badge/MISSION-ACTIVE%20DEVELOPER-FFB454?style=for-the-badge)](https://github.com/MartinLourduraj)
+[![Theme Mission](https://img.shields.io/badge/STATUS-MISSION%3A%20ACTIVE%20DEVELOPER-FFB454?style=for-the-badge)](https://github.com/MartinLourduraj)
 
 </div>
 
 ---
 
-```ascii
-  +========================================================================================+
-  |  >>> [!] CSVS UNDERWORLD // SYSTEM ONLINE -- SECURE TERMINAL ESTABLISHED <<<          |
-  |                                                                                        |
-  |  USER           : MARTIN LOURDURAJ (@MartinLourduraj)                                 |
-  |  ORGANIZATION   : CSVS IT TECH                                                        |
-  |  ROLE           : FULL-STACK ENGINEER & HEALTHCARE IT ARCHITECT                       |
-  |  LOCATION       : INDIA (GLOBAL CLOUD & LOS SANTOS SECTOR)                            |
-  |  SPECIALIZATION : CLINICAL ERP, HOSPITAL AUTOMATION, SECURE DEVOPS                    |
-  |  SIGNATURE      : BUILD SYSTEMS. OWN THE NIGHT.                                       |
-  +========================================================================================+
-```
+## 🌟 ABOUT ME & DEVELOPER PROFILE
+
+> "Building mission-critical clinical healthcare architectures and high-security systems that never fail under pressure."
+
+I am **Martin Lourduraj**, Founder, Lead Developer, and Full-Stack Architect at **CSVS IT Tech**. I specialize in engineering secure, high-concurrency clinical hospital management systems (HMS), laboratory automation and PACS/DICOM interfacing, enterprise ERP pipelines, and resilient cloud infrastructure.
+
+Whether designing intuitive patient and physician workflows or containerizing distributed services on AWS, my core commitment is absolute reliability: **building systems that scale effortlessly with zero compromise on data security or regulatory compliance.**
+
+- 💼 **Current Role:** Founder & Full-Stack Architect · **CSVS IT Tech**
+- 🏥 **Specialization:** Clinical Hospital ERP, Laboratory Automation, HIPAA Compliance & Secure DevOps
+- 📍 **Location:** Tamil Nadu, India (Operating Global Cloud Deployments)
+- 🌐 **Official Website:** [https://csvsittech.in](https://csvsittech.in)
+- ✉️ **Direct Email:** [contact@csvsittech.in](mailto:contact@csvsittech.in)
 
 ---
 
-## 🌴 SECTION A — PLAYER IDENTITY
-
-> **"Building secure, scalable, and user-friendly healthcare systems with modern technologies."**
-
-I am **Martin Lourduraj**, Founder, Developer, and Tech Lead at **CSVS IT Tech**. I specialize in full-stack healthcare platforms, clinical ERP architectures, laboratory integration, and automated cloud deployments with zero compromise on data security and regulatory compliance.
-
-Whether orchestrating clinical workflows for hospitals or automating multi-stage CI/CD pipelines on the cloud, my objective is clear: **build mission-critical systems that never fail under pressure.**
-
----
-
-## 🎯 SECTION B — MISSION CONTROL & DEVELOPER RADAR
+## 🎯 MISSION CONTROL & OPERATIONAL RADAR
 
 <div align="center">
 
-<img src="./assets/developer-radar.svg" alt="CSVS Underworld Developer Radar" width="100%" />
+<img src="./assets/radar-current.svg" alt="CSVS Underworld Developer Radar" width="100%" />
 
 </div>
 
-### Key Operational Doctrines
+### Core Operational Doctrines
 
-- 🏥 **Hospital Management Systems (HMS):** End-to-end clinical workflow, in-patient, out-patient, bed management & automated billing.
-- 🔬 **Lab & Radiology Integration:** PACS/DICOM compliant diagnostic reports, automated test result dispatch and lab device interfaces.
-- ☁️ **Cloud Deployment & Automation:** Secure HIPAA-ready AWS cloud infrastructure, containerized microservices and automated CI/CD pipelines.
-- 🛡️ **Data Security & Compliance:** Role-based access control, encrypted patient records, audit trails and zero-downtime database replication.
+- 🏥 **Hospital Management Systems (HMS):** End-to-end clinical workflow automation, in-patient (IP) / out-patient (OP) record handling, bed assignment, pharmacy dispense, and financial billing.
+- 🔬 **Laboratory & Diagnostic Pipelines:** LIMS interfacing, automated pathology analyzer communication, and PACS/DICOM compliant diagnostic report delivery.
+- ☁️ **Cloud Infrastructure & DevOps:** Resilient cloud deployments on AWS, containerized microservices via Docker, zero-downtime database replication, and automated CI/CD pipelines.
+- 🛡️ **Healthcare Security & Governance:** Role-based access control (RBAC), end-to-end encryption for sensitive health information (PHI), audit logging, and regulatory compliance.
 
 ---
 
-## 🏎️ SECTION C — REPOSITORY GARAGE (ACTIVE MISSIONS)
+## 🏎️ FEATURED PUBLIC REPOSITORIES
 
-All displayed missions represent verified public repositories engineered by Martin Lourduraj:
+Verified open-source repositories engineered and maintained by Martin Lourduraj:
 
-| Mission / Repository | Focus & Architecture | Primary Stack | Access |
+| Repository / Project | Architecture & Domain | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| [**`remix-of-gen-tech-hub`**](https://github.com/MartinLourduraj/remix-of-gen-tech-hub) | Next-gen healthcare & hospital management system | `TypeScript` `React` `Remix` | `Public` |
-| [**`medical_erp2`**](https://github.com/MartinLourduraj/medical_erp2) | Hospital ERP with OP, IP, Lab, Radiology, and Clinical Reporting | `Python` `Django` `PostgreSQL` | `Public` |
-| [**`DoctoHub`**](https://github.com/MartinLourduraj/DoctoHub) | Doctors combination social media and patient healthcare platform | `Django` `Python` `AWS` | `Public` |
+| [**`remix-of-gen-tech-hub`**](https://github.com/MartinLourduraj/remix-of-gen-tech-hub) | Next-Gen Healthcare & Hospital Management Platform with interactive portals | `TypeScript` `Remix` `React` `TailwindCSS` | **Public** |
+| [**`medical_erp2`**](https://github.com/MartinLourduraj/medical_erp2) | Hospital ERP handling OP, IP, Clinical Labs, Pharmacy, and Diagnostic Billing | `Python` `Django` `PostgreSQL` `HTML/CSS` | **Public** |
+| [**`DoctoHub`**](https://github.com/MartinLourduraj/DoctoHub) | Doctor-Patient Clinical Social Network and appointment management suite | `Python` `Django` `AWS` `REST APIs` | **Public** |
 
-> *Active internal systems across the 22-repository production fleet include clinical lab flow pipelines (`vmmch-labflow`), educational management platforms (`school-bloom`), POS architectures (`vendor-vault-pos`), and internal microservices.*
+> *Production systems across CSVS IT Tech include internal clinical lab flow pipelines, educational ERP architectures, POS integrations, and automated healthcare microservices.*
 
 ---
 
-## 🛠️ SECTION D — TECHNOLOGY ARSENAL
+## 🛠️ TECH ARSENAL
 
-Verified technologies deployed across CSVS IT Tech production stacks:
+Verified technologies deployed across production environments:
 
-<div align="center">
-
-| Domain | Verified Weapons & Toolchains |
+| Domain | Production Weapons & Toolchains |
 | :--- | :--- |
-| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=20E88B) |
-| **Frontend & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud & Systems** | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **DevOps & Automation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-00D8C7?style=flat-square&logo=github-actions&logoColor=black) |
-
-</div>
+| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=20E88B) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white) |
+| **Frontend & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & Systems** | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **DevOps & Automation**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
-## 📊 SECTION E — CONTRIBUTION INTELLIGENCE
-
-Real-time telemetry and verified language distribution:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MartinLourduraj&show_icons=true&theme=tokyonight&bg_color=06131F&title_color=20E88B&text_color=DCE7EB&icon_color=00D8C7&border_color=00D8C733" alt="MartinLourduraj GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLourduraj&layout=compact&theme=tokyonight&bg_color=06131F&title_color=20E88B&text_color=DCE7EB&border_color=00D8C733" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 🌐 SECTION F — BRAND IDENTITY & SECURE COMMS
+## 🌐 ENTERPRISE & DIRECT CHANNELS
 
 - 🏢 **Enterprise & Brand:** [CSVS IT Tech](https://csvsittech.in)
 - 💼 **LinkedIn Network:** [Connect on LinkedIn](https://www.linkedin.com)
@@ -112,12 +86,13 @@ Real-time telemetry and verified language distribution:
 
 <div align="center">
 
-<img src="./assets/underworld-footer.svg" alt="CSVS Underworld Footer" width="100%" />
+<img src="./assets/footer-current.svg" alt="CSVS Underworld Footer" width="100%" />
 
-### 🏆 MISSION STATUS: COMPLETE // RESPECT +
+### 🏆 THEME SYNCHRONIZED: CSVS UNDERWORLD
 
 ```
-[ GTA SAN ANDREAS + GTA V + GTA VI HYBRID DEVELOPER SUITE ]
+[ CSVS UNDERWORLD // ACTIVE PUBLIC GITHUB THEME ]
+BUILD SYSTEMS. OWN THE NIGHT.
 Engineered by Martin Lourduraj • CSVS IT Tech
 ```
 
