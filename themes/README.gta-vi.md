@@ -5,28 +5,10 @@
 <!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
 <img src="./assets/theme-gta-vi-banner.png" alt="GTA VI — Martin Lourduraj Standalone Banner" width="100%" />
 
-<!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-FF6CA9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-      </a>
-      &nbsp;
-      <a href="https://csvsittech.in">
-        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-B77CFF?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
-      </a>
-      &nbsp;
-      <a href="mailto:contact@csvsittech.in">
-        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-CE92FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/STATUS-WANTED%20LEVEL%3A%200%E2%98%85%20(LEGIT%20DEVELOPER)-00F0FF?style=for-the-badge" alt="Theme Status" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- PREMIUM GAMING QUICK ACTION CARDS (MATCHING EXTENSION TRANSPARENT UI) -->
+<a href="https://github.com/MartinLourduraj">
+  <img src="./assets/action-cards-gta-vi.svg" alt="GTA VI Quick Action Cards" width="100%" />
+</a>
 
 </div>
 

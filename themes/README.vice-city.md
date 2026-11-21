@@ -5,28 +5,10 @@
 <!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
 <img src="./assets/theme-vice-city-banner.png" alt="GTA Vice City — Martin Lourduraj Standalone Banner" width="100%" />
 
-<!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-FF65B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-      </a>
-      &nbsp;
-      <a href="https://csvsittech.in">
-        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-34E1E6?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
-      </a>
-      &nbsp;
-      <a href="mailto:contact@csvsittech.in">
-        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-FF79BA?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/STATUS-CITY%20STATUS%3A%20100%25%20COMPLETE-FFE600?style=for-the-badge" alt="Theme Status" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- PREMIUM GAMING QUICK ACTION CARDS (MATCHING EXTENSION TRANSPARENT UI) -->
+<a href="https://github.com/MartinLourduraj">
+  <img src="./assets/action-cards-vice-city.svg" alt="GTA Vice City Quick Action Cards" width="100%" />
+</a>
 
 </div>
 

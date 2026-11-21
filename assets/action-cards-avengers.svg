@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 88" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg_avengers" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1726" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0a1d2c" stop-opacity="0.88" />
+    </linearGradient>
+
+    <linearGradient id="glowBorder_avengers" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#57A8FF" stop-opacity="0.75" />
+      <stop offset="50%" stop-color="#E74755" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#57A8FF" stop-opacity="0.75" />
+    </linearGradient>
+
+    <filter id="shadow_avengers" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- CARD 1: OPERATIVE GITHUB -->
+  <a xlink:href="https://github.com/MartinLourduraj" target="_blank">
+    <g transform="translate(10, 7)" filter="url(#shadow_avengers)" cursor="pointer">
+      <rect width="282" height="74" rx="10" fill="url(#cardBg_avengers)" stroke="url(#glowBorder_avengers)" stroke-width="1.4" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#57A8FF" stroke-width="2.2" rx="4" />
+      <!-- Octocat Icon -->
+      <g transform="translate(18, 19)">
+        <circle cx="18" cy="18" r="18" fill="#57A8FF" fill-opacity="0.15" />
+        <path d="M18 7 C11.9 7 7 11.9 7 18 C7 22.8 10.2 26.9 14.6 28.4 C15.2 28.5 15.4 28.1 15.4 27.8 C15.4 27.5 15.4 26.5 15.4 25.3 C12.3 26 11.7 24.5 11.7 24.5 C11.2 23.2 10.5 22.8 10.5 22.8 C9.5 22.1 10.6 22.1 10.6 22.1 C11.7 22.2 12.3 23.3 12.3 23.3 C13.3 25 14.9 24.5 15.5 24.2 C15.6 23.5 15.9 23 16.2 22.7 C13.7 22.4 11.1 21.4 11.1 17 C11.1 15.7 11.6 14.7 12.3 13.9 C12.2 13.6 11.8 12.3 12.4 10.7 C12.4 10.7 13.4 10.4 15.6 11.9 C16.5 11.6 17.5 11.5 18.5 11.5 C19.5 11.5 20.5 11.6 21.4 11.9 C23.6 10.4 24.6 10.7 24.6 10.7 C25.2 12.3 24.8 13.6 24.7 13.9 C25.5 14.7 25.9 15.7 25.9 17 C25.9 21.4 23.3 22.4 20.8 22.7 C21.2 23 21.6 23.8 21.6 24.9 C21.6 26.5 21.6 27.5 21.6 27.8 C21.6 28.1 21.8 28.5 22.4 28.4 C26.8 26.9 30 22.8 30 18 C30 11.9 25.1 7 18 7 Z" fill="#57A8FF" />
+      </g>
+      <text x="64" y="30" fill="#E74755" font-family="'Segoe UI', -apple-system, monospace" font-size="10" font-weight="800" letter-spacing="1.2">OPERATIVE</text>
+      <text x="64" y="52" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="800" letter-spacing="0.3">MartinLourduraj ↗</text>
+    </g>
+  </a>
+
+  <!-- CARD 2: ORGANIZATION -->
+  <a xlink:href="https://csvsittech.in" target="_blank">
+    <g transform="translate(306, 7)" filter="url(#shadow_avengers)" cursor="pointer">
+      <rect width="282" height="74" rx="10" fill="url(#cardBg_avengers)" stroke="url(#glowBorder_avengers)" stroke-width="1.4" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#E74755" stroke-width="2.2" rx="4" />
+      <!-- Shield Icon -->
+      <g transform="translate(18, 19)">
+        <circle cx="18" cy="18" r="18" fill="#E74755" fill-opacity="0.15" />
+        <path d="M18 10 L26 13 L26 19 C26 24 22.5 27.5 18 29 C13.5 27.5 10 24 10 19 L10 13 Z" fill="none" stroke="#E74755" stroke-width="2.2" stroke-linejoin="round" />
+        <path d="M15 19 L17 21 L22 16" fill="none" stroke="#E74755" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <text x="64" y="30" fill="#57A8FF" font-family="'Segoe UI', -apple-system, monospace" font-size="10" font-weight="800" letter-spacing="1.2">ORGANIZATION</text>
+      <text x="64" y="52" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="800" letter-spacing="0.3">CSVS IT TECH ↗</text>
+    </g>
+  </a>
+
+  <!-- CARD 3: SECURE COMMS -->
+  <a xlink:href="mailto:contact@csvsittech.in">
+    <g transform="translate(602, 7)" filter="url(#shadow_avengers)" cursor="pointer">
+      <rect width="282" height="74" rx="10" fill="url(#cardBg_avengers)" stroke="url(#glowBorder_avengers)" stroke-width="1.4" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#38BDF8" stroke-width="2.2" rx="4" />
+      <!-- Mail Icon -->
+      <g transform="translate(18, 19)">
+        <circle cx="18" cy="18" r="18" fill="#38BDF8" fill-opacity="0.15" />
+        <rect x="9" y="12" width="18" height="13" rx="2" fill="none" stroke="#38BDF8" stroke-width="2" />
+        <polyline points="9,14 18,20 27,14" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round" />
+      </g>
+      <text x="64" y="30" fill="#38BDF8" font-family="'Segoe UI', -apple-system, monospace" font-size="10" font-weight="800" letter-spacing="1.2">SECURE CHANNEL</text>
+      <text x="64" y="52" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="0.2">contact@csvsittech.in ↗</text>
+    </g>
+  </a>
+
+  <!-- CARD 4: MISSION STATUS -->
+  <a xlink:href="https://github.com/MartinLourduraj">
+    <g transform="translate(898, 7)" filter="url(#shadow_avengers)" cursor="pointer">
+      <rect width="282" height="74" rx="10" fill="url(#cardBg_avengers)" stroke="url(#glowBorder_avengers)" stroke-width="1.4" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#FFD700" stroke-width="2.2" rx="4" />
+      <!-- Status Pulse Dot Icon -->
+      <g transform="translate(18, 19)">
+        <circle cx="18" cy="18" r="18" fill="#FFD700" fill-opacity="0.15" />
+        <circle cx="18" cy="18" r="7" fill="#FFD700" />
+        <circle cx="18" cy="18" r="11" fill="none" stroke="#FFD700" stroke-width="1.5" stroke-opacity="0.6" />
+      </g>
+      <text x="64" y="30" fill="#FFD700" font-family="'Segoe UI', -apple-system, monospace" font-size="10" font-weight="800" letter-spacing="1.2">MISSION STATUS</text>
+      <text x="64" y="52" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="0.3">DEFENSE PROTOCOL</text>
+    </g>
+  </a>
+</svg>
