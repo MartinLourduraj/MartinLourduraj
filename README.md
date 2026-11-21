@@ -3,26 +3,26 @@
 <div align="center">
 
 <!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
-<img src="./assets/theme-vice-city-banner.png" alt="GTA Vice City — Martin Lourduraj Standalone Banner" width="100%" />
+<img src="./assets/theme-gta-iv-banner.png" alt="GTA IV — Martin Lourduraj Standalone Banner" width="100%" />
 
 <!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-FF65B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-7B9DB8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
       &nbsp;
       <a href="https://csvsittech.in">
-        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-34E1E6?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
+        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-94B4D1?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
       </a>
       &nbsp;
       <a href="mailto:contact@csvsittech.in">
-        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-FF79BA?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
+        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-BECD9?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
       </a>
       &nbsp;
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/STATUS-CITY%20STATUS%3A%20100%25%20COMPLETE-FFE600?style=for-the-badge" alt="Theme Status" />
+        <img src="https://img.shields.io/badge/STATUS-SURVIVOR%3A%20LIBERTY%20CITY%20ARCHITECT-FF8800?style=for-the-badge" alt="Theme Status" />
       </a>
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
 ## 🌟 ABOUT ME & DEVELOPER PROFILE
 
-> "Speed, precision, and relentless execution: delivering responsive clinical web architectures with neon elegance."
+> "Uncompromising resilience: engineered for heavy-duty hospital workloads, fault tolerance, and zero-downtime reliability."
 
 I am **Martin Lourduraj**, Founder, Lead Developer, and Full-Stack Architect at **CSVS IT Tech**. I specialize in engineering secure, high-concurrency clinical hospital management systems (HMS), laboratory automation and PACS/DICOM interfacing, enterprise ERP pipelines, and resilient cloud infrastructure.
 
@@ -52,7 +52,7 @@ Whether designing intuitive patient and physician workflows or containerizing di
 
 <div align="center">
 
-<img src="./assets/radar-vice-city.svg" alt="GTA Vice City Developer Radar" width="100%" />
+<img src="./assets/radar-gta-iv.svg" alt="GTA IV Developer Radar" width="100%" />
 
 </div>
 
@@ -104,13 +104,13 @@ Verified technologies deployed across production environments:
 
 <div align="center">
 
-<img src="./assets/footer-vice-city.svg" alt="GTA Vice City Footer" width="100%" />
+<img src="./assets/footer-gta-iv.svg" alt="GTA IV Footer" width="100%" />
 
-### 🏆 THEME SYNCHRONIZED: GTA VICE CITY
+### 🏆 THEME SYNCHRONIZED: GTA IV
 
 ```
-[ GTA VICE CITY // ACTIVE PUBLIC GITHUB THEME ]
-RUN THE CITY. SUNSET TO SUNRISE.
+[ GTA IV // ACTIVE PUBLIC GITHUB THEME ]
+SURVIVE THE CONCRETE. BUILD TO LAST.
 Engineered by Martin Lourduraj • CSVS IT Tech
 ```
 
