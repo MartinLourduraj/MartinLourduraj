@@ -3,26 +3,26 @@
 <div align="center">
 
 <!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
-<img src="./assets/theme-gta-vi-banner.png" alt="GTA VI — Martin Lourduraj Standalone Banner" width="100%" />
+<img src="./assets/theme-avengers-banner.png" alt="Marvel Avengers — Martin Lourduraj Standalone Banner" width="100%" />
 
 <!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-FF6CA9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-57A8FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
       &nbsp;
       <a href="https://csvsittech.in">
-        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-B77CFF?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
+        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-E74755?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
       </a>
       &nbsp;
       <a href="mailto:contact@csvsittech.in">
-        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-CE92FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
+        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
       </a>
       &nbsp;
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/STATUS-WANTED%20LEVEL%3A%200%E2%98%85%20(LEGIT%20DEVELOPER)-00F0FF?style=for-the-badge" alt="Theme Status" />
+        <img src="https://img.shields.io/badge/STATUS-AVENGERS%20PROTOCOL%3A%20DEFENDER-FFD700?style=for-the-badge" alt="Theme Status" />
       </a>
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
 ## 🌟 ABOUT ME & DEVELOPER PROFILE
 
-> "Pushing the frontier of modern healthcare web technologies with modern frameworks, cloud clusters, and next-gen UX."
+> "Assembling cutting-edge full-stack technologies to protect and safeguard critical patient health data worldwide."
 
 I am **Martin Lourduraj**, Founder, Lead Developer, and Full-Stack Architect at **CSVS IT Tech**. I specialize in engineering secure, high-concurrency clinical hospital management systems (HMS), laboratory automation and PACS/DICOM interfacing, enterprise ERP pipelines, and resilient cloud infrastructure.
 
@@ -52,7 +52,7 @@ Whether designing intuitive patient and physician workflows or containerizing di
 
 <div align="center">
 
-<img src="./assets/radar-gta-vi.svg" alt="GTA VI Developer Radar" width="100%" />
+<img src="./assets/radar-avengers.svg" alt="Marvel Avengers Developer Radar" width="100%" />
 
 </div>
 
@@ -104,13 +104,13 @@ Verified technologies deployed across production environments:
 
 <div align="center">
 
-<img src="./assets/footer-gta-vi.svg" alt="GTA VI Footer" width="100%" />
+<img src="./assets/footer-avengers.svg" alt="Marvel Avengers Footer" width="100%" />
 
-### 🏆 THEME SYNCHRONIZED: GTA VI
+### 🏆 THEME SYNCHRONIZED: MARVEL AVENGERS
 
 ```
-[ GTA VI // ACTIVE PUBLIC GITHUB THEME ]
-LEONIDA HORIZONS: NEXT-GEN ENGINEERING.
+[ MARVEL AVENGERS // ACTIVE PUBLIC GITHUB THEME ]
+WHATEVER IT TAKES. BUILT TO PROTECT.
 Engineered by Martin Lourduraj • CSVS IT Tech
 ```
 
