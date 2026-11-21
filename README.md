@@ -3,26 +3,26 @@
 <div align="center">
 
 <!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
-<img src="./assets/theme-current-banner.png" alt="CSVS Underworld — Martin Lourduraj Standalone Banner" width="100%" />
+<img src="./assets/theme-san-andreas-banner.png" alt="GTA San Andreas — Martin Lourduraj Standalone Banner" width="100%" />
 
 <!-- 4 HUD QUICK ACTION PILLS (MIRRORING EXTENSION PROFILE HUD) -->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-00D8C7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+        <img src="https://img.shields.io/badge/OPERATIVE-MartinLourduraj-D8B16E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
       &nbsp;
       <a href="https://csvsittech.in">
-        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-20E88B?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
+        <img src="https://img.shields.io/badge/ORGANIZATION-CSVS%20IT%20TECH-6FBC75?style=for-the-badge&logo=shield&logoColor=white" alt="CSVS IT Tech" />
       </a>
       &nbsp;
       <a href="mailto:contact@csvsittech.in">
-        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-18BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
+        <img src="https://img.shields.io/badge/SECURE_CHANNEL-contact%40csvsittech.in-C79B52?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Contact" />
       </a>
       &nbsp;
       <a href="https://github.com/MartinLourduraj">
-        <img src="https://img.shields.io/badge/STATUS-MISSION%3A%20ACTIVE%20DEVELOPER-FFB454?style=for-the-badge" alt="Theme Status" />
+        <img src="https://img.shields.io/badge/STATUS-RESPECT%3A%20%2B%20MAX-FF9900?style=for-the-badge" alt="Theme Status" />
       </a>
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
 ## 🌟 ABOUT ME & DEVELOPER PROFILE
 
-> "Building mission-critical clinical healthcare architectures and high-security systems that never fail under pressure."
+> "From the ground up: building bulletproof healthcare platforms and rock-solid infrastructure for the long haul."
 
 I am **Martin Lourduraj**, Founder, Lead Developer, and Full-Stack Architect at **CSVS IT Tech**. I specialize in engineering secure, high-concurrency clinical hospital management systems (HMS), laboratory automation and PACS/DICOM interfacing, enterprise ERP pipelines, and resilient cloud infrastructure.
 
@@ -52,7 +52,7 @@ Whether designing intuitive patient and physician workflows or containerizing di
 
 <div align="center">
 
-<img src="./assets/radar-current.svg" alt="CSVS Underworld Developer Radar" width="100%" />
+<img src="./assets/radar-san-andreas.svg" alt="GTA San Andreas Developer Radar" width="100%" />
 
 </div>
 
@@ -104,13 +104,13 @@ Verified technologies deployed across production environments:
 
 <div align="center">
 
-<img src="./assets/footer-current.svg" alt="CSVS Underworld Footer" width="100%" />
+<img src="./assets/footer-san-andreas.svg" alt="GTA San Andreas Footer" width="100%" />
 
-### 🏆 THEME SYNCHRONIZED: CSVS UNDERWORLD
+### 🏆 THEME SYNCHRONIZED: GTA SAN ANDREAS
 
 ```
-[ CSVS UNDERWORLD // ACTIVE PUBLIC GITHUB THEME ]
-BUILD SYSTEMS. OWN THE NIGHT.
+[ GTA SAN ANDREAS // ACTIVE PUBLIC GITHUB THEME ]
+RESPECT IS EARNED. CODE IS SHIPPED.
 Engineered by Martin Lourduraj • CSVS IT Tech
 ```
 
