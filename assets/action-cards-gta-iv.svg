@@ -21,7 +21,6 @@
     <g transform="translate(10, 7)" filter="url(#shadow_gta-iv)" cursor="pointer">
       <rect width="282" height="74" rx="10" fill="url(#cardBg_gta-iv)" stroke="url(#glowBorder_gta-iv)" stroke-width="1.4" />
       <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#7B9DB8" stroke-width="2.2" rx="4" />
-      <!-- Octocat Icon -->
       <g transform="translate(18, 19)">
         <circle cx="18" cy="18" r="18" fill="#7B9DB8" fill-opacity="0.15" />
         <path d="M18 7 C11.9 7 7 11.9 7 18 C7 22.8 10.2 26.9 14.6 28.4 C15.2 28.5 15.4 28.1 15.4 27.8 C15.4 27.5 15.4 26.5 15.4 25.3 C12.3 26 11.7 24.5 11.7 24.5 C11.2 23.2 10.5 22.8 10.5 22.8 C9.5 22.1 10.6 22.1 10.6 22.1 C11.7 22.2 12.3 23.3 12.3 23.3 C13.3 25 14.9 24.5 15.5 24.2 C15.6 23.5 15.9 23 16.2 22.7 C13.7 22.4 11.1 21.4 11.1 17 C11.1 15.7 11.6 14.7 12.3 13.9 C12.2 13.6 11.8 12.3 12.4 10.7 C12.4 10.7 13.4 10.4 15.6 11.9 C16.5 11.6 17.5 11.5 18.5 11.5 C19.5 11.5 20.5 11.6 21.4 11.9 C23.6 10.4 24.6 10.7 24.6 10.7 C25.2 12.3 24.8 13.6 24.7 13.9 C25.5 14.7 25.9 15.7 25.9 17 C25.9 21.4 23.3 22.4 20.8 22.7 C21.2 23 21.6 23.8 21.6 24.9 C21.6 26.5 21.6 27.5 21.6 27.8 C21.6 28.1 21.8 28.5 22.4 28.4 C26.8 26.9 30 22.8 30 18 C30 11.9 25.1 7 18 7 Z" fill="#7B9DB8" />
@@ -36,7 +35,6 @@
     <g transform="translate(306, 7)" filter="url(#shadow_gta-iv)" cursor="pointer">
       <rect width="282" height="74" rx="10" fill="url(#cardBg_gta-iv)" stroke="url(#glowBorder_gta-iv)" stroke-width="1.4" />
       <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#94B4D1" stroke-width="2.2" rx="4" />
-      <!-- Shield Icon -->
       <g transform="translate(18, 19)">
         <circle cx="18" cy="18" r="18" fill="#94B4D1" fill-opacity="0.15" />
         <path d="M18 10 L26 13 L26 19 C26 24 22.5 27.5 18 29 C13.5 27.5 10 24 10 19 L10 13 Z" fill="none" stroke="#94B4D1" stroke-width="2.2" stroke-linejoin="round" />
@@ -52,7 +50,6 @@
     <g transform="translate(602, 7)" filter="url(#shadow_gta-iv)" cursor="pointer">
       <rect width="282" height="74" rx="10" fill="url(#cardBg_gta-iv)" stroke="url(#glowBorder_gta-iv)" stroke-width="1.4" />
       <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#CBD5E1" stroke-width="2.2" rx="4" />
-      <!-- Mail Icon -->
       <g transform="translate(18, 19)">
         <circle cx="18" cy="18" r="18" fill="#CBD5E1" fill-opacity="0.15" />
         <rect x="9" y="12" width="18" height="13" rx="2" fill="none" stroke="#CBD5E1" stroke-width="2" />
@@ -68,7 +65,6 @@
     <g transform="translate(898, 7)" filter="url(#shadow_gta-iv)" cursor="pointer">
       <rect width="282" height="74" rx="10" fill="url(#cardBg_gta-iv)" stroke="url(#glowBorder_gta-iv)" stroke-width="1.4" />
       <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#FF8800" stroke-width="2.2" rx="4" />
-      <!-- Status Pulse Dot Icon -->
       <g transform="translate(18, 19)">
         <circle cx="18" cy="18" r="18" fill="#FF8800" fill-opacity="0.15" />
         <circle cx="18" cy="18" r="7" fill="#FF8800" />

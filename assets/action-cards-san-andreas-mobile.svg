@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 336" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mCardBg_san-andreas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151811" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#0a1d2c" stop-opacity="0.92" />
+    </linearGradient>
+
+    <linearGradient id="mGlowBorder_san-andreas" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D8B16E" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#6FBC75" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#D8B16E" stop-opacity="0.85" />
+    </linearGradient>
+
+    <filter id="mShadow_san-andreas" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <!-- MOBILE CARD 1: OPERATIVE GITHUB -->
+  <a xlink:href="https://github.com/MartinLourduraj" target="_blank">
+    <g transform="translate(10, 8)" filter="url(#mShadow_san-andreas)" cursor="pointer">
+      <rect width="540" height="68" rx="10" fill="url(#mCardBg_san-andreas)" stroke="url(#mGlowBorder_san-andreas)" stroke-width="1.6" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#D8B16E" stroke-width="2.5" rx="4" />
+      <g transform="translate(18, 16)">
+        <circle cx="18" cy="18" r="18" fill="#D8B16E" fill-opacity="0.18" />
+        <path d="M18 7 C11.9 7 7 11.9 7 18 C7 22.8 10.2 26.9 14.6 28.4 C15.2 28.5 15.4 28.1 15.4 27.8 C15.4 27.5 15.4 26.5 15.4 25.3 C12.3 26 11.7 24.5 11.7 24.5 C11.2 23.2 10.5 22.8 10.5 22.8 C9.5 22.1 10.6 22.1 10.6 22.1 C11.7 22.2 12.3 23.3 12.3 23.3 C13.3 25 14.9 24.5 15.5 24.2 C15.6 23.5 15.9 23 16.2 22.7 C13.7 22.4 11.1 21.4 11.1 17 C11.1 15.7 11.6 14.7 12.3 13.9 C12.2 13.6 11.8 12.3 12.4 10.7 C12.4 10.7 13.4 10.4 15.6 11.9 C16.5 11.6 17.5 11.5 18.5 11.5 C19.5 11.5 20.5 11.6 21.4 11.9 C23.6 10.4 24.6 10.7 24.6 10.7 C25.2 12.3 24.8 13.6 24.7 13.9 C25.5 14.7 25.9 15.7 25.9 17 C25.9 21.4 23.3 22.4 20.8 22.7 C21.2 23 21.6 23.8 21.6 24.9 C21.6 26.5 21.6 27.5 21.6 27.8 C21.6 28.1 21.8 28.5 22.4 28.4 C26.8 26.9 30 22.8 30 18 C30 11.9 25.1 7 18 7 Z" fill="#D8B16E" />
+      </g>
+      <text x="68" y="28" fill="#6FBC75" font-family="'Segoe UI', -apple-system, monospace" font-size="11" font-weight="800" letter-spacing="1.5">OPERATIVE // PROFILE</text>
+      <text x="68" y="49" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="800" letter-spacing="0.3">MartinLourduraj</text>
+      <text x="510" y="42" fill="#D8B16E" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="900">↗</text>
+    </g>
+  </a>
+
+  <!-- MOBILE CARD 2: ORGANIZATION -->
+  <a xlink:href="https://csvsittech.in" target="_blank">
+    <g transform="translate(10, 90)" filter="url(#mShadow_san-andreas)" cursor="pointer">
+      <rect width="540" height="68" rx="10" fill="url(#mCardBg_san-andreas)" stroke="url(#mGlowBorder_san-andreas)" stroke-width="1.6" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#6FBC75" stroke-width="2.5" rx="4" />
+      <g transform="translate(18, 16)">
+        <circle cx="18" cy="18" r="18" fill="#6FBC75" fill-opacity="0.18" />
+        <path d="M18 10 L26 13 L26 19 C26 24 22.5 27.5 18 29 C13.5 27.5 10 24 10 19 L10 13 Z" fill="none" stroke="#6FBC75" stroke-width="2.2" stroke-linejoin="round" />
+        <path d="M15 19 L17 21 L22 16" fill="none" stroke="#6FBC75" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <text x="68" y="28" fill="#D8B16E" font-family="'Segoe UI', -apple-system, monospace" font-size="11" font-weight="800" letter-spacing="1.5">ORGANIZATION // PORTAL</text>
+      <text x="68" y="49" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="800" letter-spacing="0.3">CSVS IT TECH</text>
+      <text x="510" y="42" fill="#6FBC75" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="900">↗</text>
+    </g>
+  </a>
+
+  <!-- MOBILE CARD 3: SECURE COMMS -->
+  <a xlink:href="mailto:contact@csvsittech.in">
+    <g transform="translate(10, 172)" filter="url(#mShadow_san-andreas)" cursor="pointer">
+      <rect width="540" height="68" rx="10" fill="url(#mCardBg_san-andreas)" stroke="url(#mGlowBorder_san-andreas)" stroke-width="1.6" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#C79B52" stroke-width="2.5" rx="4" />
+      <g transform="translate(18, 16)">
+        <circle cx="18" cy="18" r="18" fill="#C79B52" fill-opacity="0.18" />
+        <rect x="9" y="12" width="18" height="13" rx="2" fill="none" stroke="#C79B52" stroke-width="2" />
+        <polyline points="9,14 18,20 27,14" fill="none" stroke="#C79B52" stroke-width="2" stroke-linejoin="round" />
+      </g>
+      <text x="68" y="28" fill="#C79B52" font-family="'Segoe UI', -apple-system, monospace" font-size="11" font-weight="800" letter-spacing="1.5">SECURE CHANNEL // COMMS</text>
+      <text x="68" y="49" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" font-weight="800" letter-spacing="0.2">contact@csvsittech.in</text>
+      <text x="510" y="42" fill="#C79B52" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="900">↗</text>
+    </g>
+  </a>
+
+  <!-- MOBILE CARD 4: MISSION STATUS -->
+  <a xlink:href="https://github.com/MartinLourduraj">
+    <g transform="translate(10, 254)" filter="url(#mShadow_san-andreas)" cursor="pointer">
+      <rect width="540" height="68" rx="10" fill="url(#mCardBg_san-andreas)" stroke="url(#mGlowBorder_san-andreas)" stroke-width="1.6" />
+      <path d="M 0 16 L 0 0 L 16 0" fill="none" stroke="#FF9900" stroke-width="2.5" rx="4" />
+      <g transform="translate(18, 16)">
+        <circle cx="18" cy="18" r="18" fill="#FF9900" fill-opacity="0.18" />
+        <circle cx="18" cy="18" r="7" fill="#FF9900" />
+        <circle cx="18" cy="18" r="11" fill="none" stroke="#FF9900" stroke-width="1.5" stroke-opacity="0.6" />
+      </g>
+      <text x="68" y="28" fill="#FF9900" font-family="'Segoe UI', -apple-system, monospace" font-size="11" font-weight="800" letter-spacing="1.5">TACTICAL STATUS // ROLE</text>
+      <text x="68" y="49" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" font-weight="800" letter-spacing="0.3">GROVE STREET VETERAN</text>
+      <text x="510" y="42" fill="#FF9900" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="900">★</text>
+    </g>
+  </a>
+</svg>

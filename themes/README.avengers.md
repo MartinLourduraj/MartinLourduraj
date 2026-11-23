@@ -2,12 +2,23 @@
 
 <div align="center">
 
-<!-- CINEMATIC STANDALONE THEME BANNER WITH EMBEDDED HUD TEXT -->
-<img src="./assets/theme-avengers-banner.png" alt="Marvel Avengers — Martin Lourduraj Standalone Banner" width="100%" />
+<!-- CINEMATIC RESPONSIVE THEME BANNER (DESKTOP + MOBILE PICTURE ELEMENT) -->
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/theme-avengers-banner-mobile.png" />
+  <source media="(min-width: 768px)" srcset="./assets/theme-avengers-banner.png" />
+  <img src="./assets/theme-avengers-banner.png" alt="Marvel Avengers — Martin Lourduraj Standalone Banner" width="100%" />
+</picture>
 
-<!-- PREMIUM GAMING QUICK ACTION CARDS (MATCHING EXTENSION TRANSPARENT UI) -->
-<a href="https://github.com/MartinLourduraj">
+<!-- PREMIUM GAMING QUICK ACTION CARDS (RESPONSIVE DESKTOP + MOBILE) -->
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/action-cards-avengers-mobile.svg" />
+  <source media="(min-width: 768px)" srcset="./assets/action-cards-avengers.svg" />
   <img src="./assets/action-cards-avengers.svg" alt="Marvel Avengers Quick Action Cards" width="100%" />
+</picture>
+
+<!-- OPTIONAL FULL PUBLIC PORTFOLIO GATEWAY -->
+<a href="https://csvsittech.in" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/portfolio-button-avengers.svg" alt="Explore Interactive Cyber Glass Portfolio" width="100%" />
 </a>
 
 </div>
@@ -27,6 +38,7 @@ Whether designing intuitive patient and physician workflows or containerizing di
 - 📍 **Location:** Tamil Nadu, India (Operating Global Cloud Deployments)
 - 🌐 **Official Website:** [https://csvsittech.in](https://csvsittech.in)
 - ✉️ **Direct Email:** [contact@csvsittech.in](mailto:contact@csvsittech.in)
+- ⚡ **GitHub:** [https://github.com/MartinLourduraj](https://github.com/MartinLourduraj)
 
 ---
 
@@ -34,7 +46,7 @@ Whether designing intuitive patient and physician workflows or containerizing di
 
 <div align="center">
 
-<img src="./assets/radar-avengers.svg" alt="Marvel Avengers Developer Radar" width="100%" />
+<img src="./assets/radar-avengers.svg" alt="Marvel Avengers Developer Radar" width="100%" loading="lazy" />
 
 </div>
 
@@ -51,11 +63,17 @@ Whether designing intuitive patient and physician workflows or containerizing di
 
 Verified open-source repositories engineered and maintained by Martin Lourduraj:
 
-| Repository / Project | Architecture & Domain | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| [**`remix-of-gen-tech-hub`**](https://github.com/MartinLourduraj/remix-of-gen-tech-hub) | Next-Gen Healthcare & Hospital Management Platform with interactive portals | `TypeScript` `Remix` `React` `TailwindCSS` | **Public** |
-| [**`medical_erp2`**](https://github.com/MartinLourduraj/medical_erp2) | Hospital ERP handling OP, IP, Clinical Labs, Pharmacy, and Diagnostic Billing | `Python` `Django` `PostgreSQL` `HTML/CSS` | **Public** |
-| [**`DoctoHub`**](https://github.com/MartinLourduraj/DoctoHub) | Doctor-Patient Clinical Social Network and appointment management suite | `Python` `Django` `AWS` `REST APIs` | **Public** |
+#### 🏥 [**`remix-of-gen-tech-hub`**](https://github.com/MartinLourduraj/remix-of-gen-tech-hub) • **Public**
+> **Next-Gen Healthcare & Hospital Management Platform** with interactive physician and patient portals, real-time diagnostic reporting, and appointment pipelines.  
+> **Tech Stack:** `TypeScript` • `Remix` • `React` • `TailwindCSS` • `PostgreSQL`
+
+#### 🔬 [**`medical_erp2`**](https://github.com/MartinLourduraj/medical_erp2) • **Public**
+> **Comprehensive Clinical Hospital ERP Suite** handling in-patient (IP), out-patient (OP), clinical lab analyzer integration, pharmacy inventory, and diagnostic billing.  
+> **Tech Stack:** `Python` • `Django` • `PostgreSQL` • `REST APIs` • `Docker`
+
+#### 🩺 [**`DoctoHub`**](https://github.com/MartinLourduraj/DoctoHub) • **Public**
+> **Doctor-Patient Clinical Social Network** and appointment management suite with encrypted record handling and cloud PACS communication.  
+> **Tech Stack:** `Python` • `Django` • `AWS Cloud` • `PostgreSQL` • `REST APIs`
 
 > *Production systems across CSVS IT Tech include internal clinical lab flow pipelines, educational ERP architectures, POS integrations, and automated healthcare microservices.*
 
@@ -65,13 +83,28 @@ Verified open-source repositories engineered and maintained by Martin Lourduraj:
 
 Verified technologies deployed across production environments:
 
-| Domain | Production Weapons & Toolchains |
-| :--- | :--- |
-| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=20E88B) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white) |
-| **Frontend & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Cloud & Systems** | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **DevOps & Automation**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+#### **Backend & Cloud Architecture**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=20E88B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square&logo=postman&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### **Frontend & Modern Interfaces**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Databases, DevOps & Systems**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -86,7 +119,7 @@ Verified technologies deployed across production environments:
 
 <div align="center">
 
-<img src="./assets/footer-avengers.svg" alt="Marvel Avengers Footer" width="100%" />
+<img src="./assets/footer-avengers.svg" alt="Marvel Avengers Footer" width="100%" loading="lazy" />
 
 ### 🏆 THEME SYNCHRONIZED: MARVEL AVENGERS
 
